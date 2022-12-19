@@ -17,11 +17,15 @@ extension UIColor {
 ```
 
 ## Usage
+### ENG
+With this extension, you can use the "hexString" property of any UIColor object to get the hexadecimal code of the object. For example:
+
+### TR
+Bu extension sayesinde, herhangi bir UIColor nesnesine "hexString" özelliğini kullanarak, o nesnenin hexadecimal kodunu alabilirsiniz. Örneğin:
 
 ```swift
 let color = UIColor.red
 let hexString = color.hexString // "#FF0000FF"
 ```
 
-## TR
-Bu extension sayesinde, herhangi bir UIColor nesnesine "hexString" özelliğini kullanarak, o nesnenin hexadecimal kodunu alabilirsiniz. Örneğin:
+
