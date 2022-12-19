@@ -35,7 +35,7 @@ let color = UIColor.Swift dilinde bir UIColor için extension yazmak, UIColor s�
 
 ## ENG
 
-This extension converts a hexadecimal color code input into a UIColor object. For example, the call "ç" creates a UIColor object with the color red.
+This extension converts a hexadecimal color code input into a UIColor object. For example, the call "colorWithHexString(hex: "#FF0000")" creates a UIColor object with the color red.
 
 This is a Swift extension that adds a method to the UIColor class and converts a hexadecimal color code to a UIColor object. In this extension, a parameter is defined for the hexadecimal color code and it is named as "hex". Then, a variable called "cString" is defined and it contains the color code passed through the "hex" parameter. The "#" symbol at the beginning of the color code is removed and if the color code is not 6 characters long, the UIColor.gray object is returned.
 Then, a variable called "rgbValue" is defined and it contains the hexadecimal value of the color code. This variable is read as a hexadecimal number using the Scanner class.
