@@ -1,4 +1,4 @@
-UIColor extension
+import UIKit
 extension UIColor {
     static func colorWithHexString(hex: String) -> UIColor {
         var cString:String = hex.trimmingCharacters(in: .whitespacesAndNewlines).uppercased()
