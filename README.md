@@ -18,7 +18,7 @@ To use these extensions, simply include the relevant extension files in your pro
 - [Light Color Check:](https://github.com/sametkoyuncu/swift-extensions-by-chatGPT/tree/main/UIColor/IsLightColor) You can use this property to check if the color of the object is light or dark.
 - [Contrasting Color:](https://github.com/sametkoyuncu/swift-extensions-by-chatGPT/tree/main/UIColor/ContrastingColor) With this extension, you can add the "contrastingColor" method to any UIColor object. You can use this method to create a color that is the opposite of the color of the object.
 
-### UITExt
+### UITextView
 
 - [HTMLtoAttributedString:](https://github.com/sametkoyuncu/swift-extensions-by-chatGPT/tree/main/UITextView/HTMLtoAttributedString) This extension converts a html content to attributed text.
 
