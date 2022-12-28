@@ -22,6 +22,10 @@ To use these extensions, simply include the relevant extension files in your pro
 
 - [HTMLtoAttributedString:](https://github.com/sametkoyuncu/swift-extensions-by-chatGPT/tree/main/UITextView/HTMLtoAttributedString) This extension converts a html content to attributed text.
 
+### String
+
+- [HTMLtoAttributedString:](https://github.com/sametkoyuncu/swift-extensions-by-chatGPT/tree/main/String/HTMLtoAttributedString) This extension converts a html content to attributed text.
+
 ## Contributing
 
 If you want to share your own Swift extensions, you can send a pull request to this repository. Please also include a Readme.md file with usage instructions to ensure that your extensions are of high quality and functional.
